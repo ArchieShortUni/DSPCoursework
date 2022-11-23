@@ -1,0 +1,24 @@
+﻿  Audio.cpp
+  Camera.cpp
+  CatmullRom.cpp
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ2\OpenGLTemplate\CatmullRom.cpp(233,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ2\OpenGLTemplate\CatmullRom.cpp(244,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ2\OpenGLTemplate\CatmullRom.cpp(529,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ2\OpenGLTemplate\CatmullRom.cpp(1001,20): warning C4018: '<': signed/unsigned mismatch
+  Cubemap.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ2\OpenGLTemplate\Game.cpp(319,37): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  Plane.cpp
+  Shaders.cpp
+  Skybox.cpp
+  Sphere.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+  Generating Code...
+  OpenGLTemplate.vcxproj -> C:\Users\archi\Desktop\DSP Submission\CourseworkQ2\Debug\OpenGLTemplate.exe

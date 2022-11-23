@@ -1,0 +1,27 @@
+﻿  Audio.cpp
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ1\OpenGLTemplate\Audio.cpp(53,83): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ1\OpenGLTemplate\Audio.cpp(59,89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ1\OpenGLTemplate\Audio.cpp(170,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ1\OpenGLTemplate\Audio.cpp(171,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ1\OpenGLTemplate\Audio.cpp(278,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Camera.cpp
+  CircularBuffer.cpp
+  Cubemap.cpp
+  custom_dsp.cpp
+  FreeTypeFont.cpp
+  Game.cpp
+  GameWindow.cpp
+  HighResolutionTimer.cpp
+  MatrixStack.cpp
+  OpenAssetImportMesh.cpp
+  Plane.cpp
+  ReworkedCircularBuffer.cpp
+C:\Users\archi\Desktop\DSP Submission\CourseworkQ1\OpenGLTemplate\ReworkedCircularBuffer.cpp(21,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  Shaders.cpp
+  Skybox.cpp
+  Sphere.cpp
+  Texture.cpp
+  VertexBufferObject.cpp
+  VertexBufferObjectIndexed.cpp
+  Generating Code...
+  OpenGLTemplate.vcxproj -> C:\Users\archi\Desktop\DSP Submission\CourseworkQ1\Debug\OpenGLTemplate.exe
